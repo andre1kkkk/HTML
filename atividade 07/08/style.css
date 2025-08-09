@@ -2,21 +2,12 @@ body{
     background-color: rgb(0, 0, 0);
 }
 
+
+
 #introducao { background-color: brown;
 height: 700px;
 width: 300px;
 
 font-size: 16px;
 color: rgb(0, 0, 0)
-
-
-};
-
-#casa{ 
-    background-color: rgb(51, 212, 177);
-    width: 300px;
-    height: 200px;
-    padding-right: 200px;
-    color: white;
-   
 }
