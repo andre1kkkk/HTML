@@ -1,0 +1,38 @@
+.container {
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+ 
+    
+}
+
+
+.metade_baixo {
+ position: relative;
+ top: 50vh;
+height: 50vh; 
+width: 100vw;
+background-color: red;
+
+
+}
+
+.int_esq {
+    position: relative;
+    background-color: green;
+    height: 89%;
+    width: 30%;
+    left: 20px;
+    top: 5px;
+    border-radius: 50px;
+}
+.matede_cima {
+bottom:50%;
+
+ position: relative;
+height: 50%;
+width: 100%;
+
+background-color: rgb(138, 9, 170);
+bottom: 50%;
+}

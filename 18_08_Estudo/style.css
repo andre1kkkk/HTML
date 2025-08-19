@@ -1,0 +1,27 @@
+.container {
+ height: 8vh;
+    width: 80vw ;
+    background-color: gray;
+    margin: auto;
+    display: flex;
+}
+.inicial, .sobre, .compras, .promocoes {
+    background-color: rgb(99, 97, 97);
+    width: 15%;
+    height: 90%;
+    display: flex;
+    border: solid 2px black;
+    margin: auto;
+  border-radius: 50px;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center ;
+  color: tomato;
+  
+}
+
+
