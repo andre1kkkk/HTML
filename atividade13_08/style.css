@@ -9,7 +9,7 @@ body{
     border-width: 5px;
     border-color: blue;
     display: flex;
-    margin:auto;
+  
     justify-content: center;
     align-items: center;
 
